@@ -1,11 +1,14 @@
 body {
     background: grey;
     color: white;
+	font-size:20px;
+	
 }
 
 .main-content {
     width: 1000px;
     margin: 0 auto;
+	
 }
 
 .u {
@@ -14,11 +17,20 @@ body {
 
 .mets {
     background: orange;
+	color:#3b1606;
+	padding:20px;
+	font-size:20px;
+	margin:10px;
+	
 }
 
 .dodgers {
     background: blue;
+	font-size:20px;
+	padding:20px;
+	margin:10px;
 }
+
 
 .cubs {
     
@@ -26,12 +38,24 @@ body {
 
 .pittsburgh {
     background: yellow;
+	color:#4a24e0;
+	font-size:20px;
+	padding:20px;
+	margin:10px;
 }
 
 .cardinals {
-    background: red;
+    background:#8f1d00;
+	font-size:20px;
+	padding:20px;
+	margin:10px;
 }
 
 .table-container {
     background: black;
+	font-size:20px;
+	padding:20px;
+	margin:10px;
+	text-align:center;
+	padding:0 250px 
 }
