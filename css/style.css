@@ -18,13 +18,11 @@ body {
 .mets {
     background: orange;
 	color:#3b1606;
-	padding:20px;
+	padding:50px;
 	font-size:20px;
 	margin:10px;
 }
-p{
-width:70%;
-}
+
 
 .dodgers {
     background: blue;
