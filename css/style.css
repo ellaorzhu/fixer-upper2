@@ -1,8 +1,8 @@
 body {
     background:#585851;
     color: white;
-	font-size:20px;
-	
+	font-size:25px;
+	font-family:"Times New Roman", Times, serif;
 }
 
 .main-content {
@@ -18,44 +18,60 @@ body {
 .mets {
     background: orange;
 	color:#3b1606;
-	padding:10px 50px;
-	font-size:20px;
+	padding:10px 150px;
+	line-height:1.3em; 
+	font-size:25px;
 	margin:10px;
 }
 
-
 .dodgers {
     background: blue;
-	font-size:20px;
-	padding:20px;
+	font-size:25px;
+	padding:10px 150px;
 	margin:10px;
+	line-height:1.3em; 
 }
 
 
 .cubs {
-    
+   line-height:1.3em; 
+   padding:10px 140px;
 }
 
 .pittsburgh {
     background: yellow;
 	color:#4a24e0;
-	font-size:20px;
-	padding:20px;
+	font-size:25px;
+	padding:10px 150px;
 	margin:10px;
+	line-height:1.3em; 
 }
 
 .cardinals {
     background:#8f1d00;
-	font-size:20px;
-	padding:20px;
+	font-size:25px;
+	padding:10px 150px;
 	margin:10px;
+	line-height:1.3em; 
 }
 
 .table-container {
     background: black;
-	font-size:20px;
-	padding:20px;
+	font-size:25px;
 	margin:10px;
 	text-align:center;
-	padding:0 250px 
+	padding:10px 250px;
+	line-height:1.3em; 
+}
+.cardinals a{
+color:#adffb0;
+}
+.pittsburgh a{
+color:#282828;
+}
+.cubs a{
+color:#ffffd7;
+}
+.dodgers a{
+color:#77fffa;
 }
